@@ -1,0 +1,34 @@
+#header{
+	width: 100%;
+	height: 300px;
+	background-color: blue;
+}
+
+
+#con
+{
+
+	background-color: #efefef;
+}
+#footer
+{
+	width: 100%;
+	height: 100%;
+	background-color:green;
+}
+.col-sm-7
+{
+	width: 100%;
+	height: 100%;
+	
+}
+
+
+#r{
+	padding-top: 30px;
+	float: right;
+}
+#y{
+	padding:5px;
+	float: right;
+}
